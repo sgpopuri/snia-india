@@ -37,7 +37,7 @@ The plan is designed so that if the team finds its rhythm faster, we can pull de
 
 ## Who's who
 
-### Technical Council (9 members)
+### Technical Council (10 members)
 
 | Name | Company | Primary lens |
 |---|---|---|
@@ -50,8 +50,9 @@ The plan is designed so that if the team finds its rhythm faster, we can pull de
 | **Dnyaneshwar Pawar** | Nutanix | Data reduction; compression at scale |
 | **Aadish Kuvelker** | Marvell | Computational Storage TWG; fabric |
 | **Manjeet Kumar** | Mindteck | SAN integration; Computational Storage TWG |
+| **Ankit Mathur** | Everpure | File Protocols; High Performance Computing; Data Acceleration |
 
-### Board (12 members)
+### Board (13 members)
 
 | Name | Company | Role |
 |---|---|---|
@@ -67,6 +68,7 @@ The plan is designed so that if the team finds its rhythm faster, we can pull de
 | **Sharad Srivastava** | Certus | T/E/N hosting; academic relations |
 | **Sameer Kshatriya** | Marvell | Q4 Operations Buddy; SDC India Program Committee |
 | **PK Gupta** (Advisor) | Dell | SDC India keynote; sage advisor |
+| **Samir Jain** | Everpure | T/E/N host |
 
 ### Executive Director
 
